@@ -1,5 +1,42 @@
-#color-box {
-    background-color: rgb(0, 0, 0);
-    width: 20em;
-    height: 20em;
+body {
+    background-color: lightgrey;
+    margin: 50px;
+    border: thick black dashed;
+    border-radius: 25px;
+    align-content: center;
+    text-align: center;
+    width: 75%;
+    padding: 50px;
+}
+
+.storyTime {
+    color: darkgray;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.mainHeader {
+    font-family: sans-serif;
+    font-weight: bold;
+
+}
+
+.story {
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+.storyOblique {
+    font-style: oblique;
+    font-family: sans-serif;
+}
+
+.storyBook {
+    border-radius: 25px;
+    width:
+
+}
+.list {
+    align-content: left;
+    text-align: left;
 }
